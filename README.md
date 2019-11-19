@@ -1,7 +1,7 @@
 # Mac-ImageMaker
 批量改变Icon大小、变更图片格式、小工具主要用于ios的icon,有时间的话后续再修改也可能使用其它方式重做一次
 
-## 可修改：
+## 可修改的变量：
 icon_namearray(修改或添加Icon(正方形图片)的名字)  
 icon_sizearray(修改或添加Icon(正方形图片)的名字)  
 
